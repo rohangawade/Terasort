@@ -4,3 +4,5 @@ Methods use for TeraSorting
 1. Shared Memory (External Sort using mergesort)
 2. Hadoop
 3. Spark
+
+Technology : Java and Scala
